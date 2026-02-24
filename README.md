@@ -1,6 +1,12 @@
 # 💠 VRC OSC CONSOLE
 
-An advanced monitoring and control interface for **VRChat** utilizing the **OSC** (Open Sound Control) protocol. This console provides real-time tracking of instance events, avatar changes, and direct interaction with the in-game chatbox.
+An advanced monitoring and control interface for **VRChat** utilizing the **OSC** (Open Sound Control) protocol.
+
+<p align="center">
+  <img src="https://github.com/kawaiistudio/OSC-LOGGER/blob/main/image_2026-02-24_134401973.png?raw=true" alt="VRC OSC Console Interface" width="100%">
+</p>
+
+This console provides real-time tracking of instance events, avatar changes, and direct interaction with the in-game chatbox.
 
 ---
 
@@ -17,8 +23,8 @@ An advanced monitoring and control interface for **VRChat** utilizing the **OSC*
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/VRC-OSC-CONSOLE.git](https://github.com/your-username/VRC-OSC-CONSOLE.git)
-    cd VRC-OSC-CONSOLE
+    git clone [https://github.com/kawaiistudio/OSC-LOGGER.git](https://github.com/kawaiistudio/OSC-LOGGER.git)
+    cd OSC-LOGGER
     ```
 
 2.  **Install Dependencies:**
@@ -36,7 +42,7 @@ An advanced monitoring and control interface for **VRChat** utilizing the **OSC*
     ```
 
 ## 📂 Data Sources Configuration
-https://github.com/kawaiistudio/OSC-LOGGER/blob/main/image_2026-02-24_134401973.png
+
 The console requires access to your local log and database files:
 
 * **VRChat Logs:** `C:\Users\%USERNAME%\AppData\LocalLow\VRChat\VRChat`
