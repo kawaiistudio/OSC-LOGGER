@@ -36,7 +36,7 @@ An advanced monitoring and control interface for **VRChat** utilizing the **OSC*
     ```
 
 ## 📂 Data Sources Configuration
-
+https://github.com/kawaiistudio/OSC-LOGGER/blob/main/image_2026-02-24_134401973.png
 The console requires access to your local log and database files:
 
 * **VRChat Logs:** `C:\Users\%USERNAME%\AppData\LocalLow\VRChat\VRChat`
